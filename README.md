@@ -7,7 +7,7 @@ This project tackles the M5 Forecasting – Accuracy challenge from Kaggle, whic
 Source: Kaggle M5 Forecasting – Accuracy
 Scope: ~30,000 products across 10 Walmart stores in California, Texas, and Wisconsin
 Features:
-1. Daily sales from 2011–2016 (1,913 days
+1. Daily sales from 2011–2016 (1,913 days)
 2. Product hierarchy (item, department, category)
 3. Price, promotions, special events, and calendar variables
 
