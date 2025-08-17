@@ -12,10 +12,10 @@ Features:
 3. Price, promotions, special events, and calendar variables
 
 ### Methodology
-Exploratory Data Analysis (EDA): Identified demand patterns, seasonality, and state-level variations.
-Feature Engineering: Lag features, rolling averages, price/event encoding.
-Modeling: Compared statistical (ARIMA, SARIMA) vs. machine learning models (Random Forest, XGBoost).
-Evaluation: Used MAE and RMSE to measure forecast accuracy.
+1. Exploratory Data Analysis (EDA): Identified demand patterns, seasonality, and state-level variations.
+2. Feature Engineering: Lag features, rolling averages, price/event encoding.
+3. Modeling: Compared statistical (ARIMA, SARIMA) vs. machine learning models (Random Forest, XGBoost).
+4. Evaluation: Used MAE and RMSE to measure forecast accuracy.
 
 ### Results
 XGBoost delivered the best performance, handling seasonality and promotions effectively.
