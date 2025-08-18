@@ -1,10 +1,10 @@
-# Walmart-Sales-Forecast
+# Walmart Sales Forecast
 
 ### Project Overview
-This project tackles the M5 Forecasting – Accuracy challenge from Kaggle, which aims to predict Walmart’s daily product sales across three U.S. states. Accurate demand forecasting is crucial for inventory management, supply chain optimization, and business planning. The task focuses on generating 28-day ahead forecasts using historical sales and auxiliary signals.
+This project tackles the M5 Forecasting Accuracy challenge from Kaggle, which aims to predict Walmart’s daily product sales across three U.S. states. Accurate demand forecasting is crucial for inventory management, supply chain optimization, and business planning. The task focuses on generating 28-day ahead forecasts using historical sales and auxiliary signals.
 
 ### Dataset
-Source: Kaggle M5 Forecasting – Accuracy
+Source: Kaggle M5 Forecasting Accuracy
 Scope: ~30,000 products across 10 Walmart stores in California, Texas, and Wisconsin
 Features:
 1. Daily sales from 2011–2016 (1,913 days)
